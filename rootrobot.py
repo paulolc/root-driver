@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-# Inspired on BB-8 Python driver by Alistair Buxton <a.j.buxton@gmail.com>
+# Root Robot Bluetooth Low Energy Protocol Documentation:
+# https://github.com/RootRobotics/root-robot-ble-protocol
 
 import crc8
 import sys
